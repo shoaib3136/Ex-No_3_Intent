@@ -193,7 +193,11 @@ public class activity_second extends AppCompatActivity {
     }
 }
 ```
-
+## Androidmanifest.xml:
+```
+<activity android:name=".activity_second" >
+</activity>
+```
 
 ## Output:
 
