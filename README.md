@@ -31,6 +31,13 @@ Step 7: Save and run the application.
 
 
 ## Program:
+ ```
+/*
+Program to create a layout by click button option ,open google page using Implicit Intents in Android Studio. .
+Developed by:Shaik Shoaib Nawaz
+RegisterNumber:212222240094  
+*/
+``` 
 ## Dimens.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
